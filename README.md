@@ -2,7 +2,7 @@
 
 # End-to-End Data Engineering: <br> Modern Data Warehousing on Microsoft Fabric
 
-All lab content can be found at https://aka.ms/FabConVienna2025DW TODO
+All lab content can be found at https://aka.ms/FabConVienna2025DW
 
 In today’s data-driven world, the ability to efficiently manage and analyze vast amounts of data is crucial for business success. This full-day hands-on workshop will explore the comprehensive capabilities of Fabric data warehouse, highlighting how it enables seamless end-to-end data engineering. 
 
